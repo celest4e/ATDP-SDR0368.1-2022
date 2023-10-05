@@ -10,4 +10,4 @@ https://drive.google.com/drive/folders/1n4sg3-nZrAPnAKd-8X6zsplfVy-IDs0s?usp=sha
 
 
 Final Project Link:
-https://github.com/preprocesser/LR-Orange
+https://github.com/ringholder/linearregression-orange
